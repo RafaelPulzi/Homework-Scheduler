@@ -27,7 +27,5 @@ For more details on features, I have written a blog post [here](https://fossover
 - Open http://localhost:3000 in a web browser to visit the Website
 
 ## Maintainers
-
-- 👤 **Ambar Mutha** [@supercoww](https://github.com/supercoww)
-- 👤 **Lalit** [@lalit3716](https://github.com/lalit3716)
+No one assigned as of now
 ---
