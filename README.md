@@ -27,5 +27,5 @@ For more details on features, I have written a blog post [here](https://fossover
 - Open http://localhost:3000 in a web browser to visit the Website
 
 ## Maintainers
-No one assigned as of now
+- No one assigned as of now
 ---
